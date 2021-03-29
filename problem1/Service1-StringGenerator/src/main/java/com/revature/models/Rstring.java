@@ -2,6 +2,7 @@ package com.revature.models;
 
 public class Rstring {
 	
+	@Size(min = 3, max = 1000)
 	private String str;
 
 	public String getStr() {
