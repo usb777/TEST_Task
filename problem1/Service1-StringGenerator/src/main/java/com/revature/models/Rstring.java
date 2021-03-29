@@ -4,7 +4,11 @@ import javax.validation.constraints.Size;
 
 public class Rstring {
 	
+<<<<<<< HEAD
 	@Size(min = 2, max = 1000)
+=======
+	@Size(min = 3, max = 1000)
+>>>>>>> bf7590bc064ed0e7cd5925eb2ffd8fb5a5ef08de
 	private String str;
 
 	public String getStr() {
