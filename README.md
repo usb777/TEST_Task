@@ -1,6 +1,6 @@
 # TEST_Task
 
-Task2 Description palindrom
+Task1 Description palindrom
 
 0. Create MySQL Database named ==palindrom==   
    take sql from 01_DATABASE_MYSQL   folder
