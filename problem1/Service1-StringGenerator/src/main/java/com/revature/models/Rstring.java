@@ -1,7 +1,10 @@
 package com.revature.models;
 
+import javax.validation.constraints.Size;
+
 public class Rstring {
 	
+	@Size(min = 2, max = 1000)
 	private String str;
 
 	public String getStr() {
