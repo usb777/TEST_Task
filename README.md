@@ -1,7 +1,10 @@
 # TEST_Task
 
-Task2 Description
-1. Start Service Registry - Eurica - port 8088
+Task2 Description palindrom
+
+0. Create MySQL Database named ==palindrom==   
+   take sql from 01_DATABASE_MYSQL   folder
+2. Start Service Registry - Eurica - port 8088
 http://localhost:8088/
 2. Start Service 1
 
